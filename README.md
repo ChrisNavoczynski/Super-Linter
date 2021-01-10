@@ -1,5 +1,3 @@
-# AD320
-
 ## Week 1: Refreshing Basic HTML, CSS, and JS
 ### Requirements:
 * HTML: Webpage that responds to user input
