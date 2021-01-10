@@ -1,0 +1,38 @@
+html {
+    background-color: rgb(102, 167, 82);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5em;
+}
+
+header {
+    font-weight: bold;
+    font-size: 32pt;
+    text-align: center;
+    color: rgb(245, 244, 241);
+    margin: auto;
+    background: black;
+    line-height: 2.5em;
+}
+
+main.wrapper {
+    background-color: white;
+    overflow: auto;
+}
+
+.timeHere {
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+.button {
+    font-weight: bold;
+    height: 40px;
+  }
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 1em;
+    color:rgb(245, 244, 241)
+}
