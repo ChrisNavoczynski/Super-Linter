@@ -1,5 +1,9 @@
-## Week 1: Refreshing Basic HTML, CSS, and JS
-### Requirements:
-* HTML: Webpage that responds to user input
-* CSS: Updates style and/or elements
-* JS: Response from the network call
+# Week 3 -Hello World React & Express Aplication
+
+## Steps
+* Create a client app and backend app in the personal repository.
+* For the client, use the create-react-app script
+* Create and use one component
+* Create the service folder
+* Create the entry point for your Express App and initialize an npm module
+* Define at least one route in your Express app
